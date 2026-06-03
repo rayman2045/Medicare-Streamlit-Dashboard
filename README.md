@@ -311,3 +311,5 @@ Real-world friction encountered and resolved while building this:
 ## Notes on viewing
 
 Streamlit-in-Snowflake apps are not public web pages — a viewer needs a Snowflake login with `USAGE` granted on the app, database, schema, and warehouse. For showcasing, see the dashboard screenshots above or the short demo recording.
+
+url: https://app.snowflake.com/streamlit/us-east-1/qvc31093/#/apps/x3zlha2pvpzdtblrg7pi
